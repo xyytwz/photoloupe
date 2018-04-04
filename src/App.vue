@@ -1,7 +1,7 @@
 <template>
   <div id="app">
       <div class="goodPic">
-          <photoloupe class :src="goodPic" :magnification="10"></photoloupe>
+          <photoloupe class :src="goodPic" :magnification="3"></photoloupe>
       </div>
   </div>
 </template>
