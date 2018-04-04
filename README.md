@@ -4,7 +4,7 @@
 - 第一次写vue插件，本人比较喜欢用简单易懂的写法，不喜勿喷。
 - 本插件支持IE9及以上版本，已经过验证。
 - 本插件可根据需要设置放大倍数，最小支持1倍，支持小数
-# 示例图片：
+## 示例图片：
 ![image](https://raw.githubusercontent.com/xyytwz/photoloupe/master/src/assets/demo.png)
 ## Build Setup
 
