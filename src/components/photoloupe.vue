@@ -50,10 +50,11 @@
             };
         },
         computed: {
+        },
+        created: function() {
             //容错机制，放大倍数必须大于等于1，可以为小数
             if(this.magnification<1)    this.magnification=1
         },
-        created: function() {},
         methods: {
             /**
              * 计算放大区域捕获框距离头部或者左侧的距离（图片放大位置也是由此计算而来）
