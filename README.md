@@ -26,7 +26,7 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 <template>
   <div id="app">
       <div class="goodPic">
-          <photoloupe class :src="goodPic" :magnification="1.5"></photoloupe>
+          <photoloupe class :src="goodPic" :magnification="3"></photoloupe>
       </div>
   </div>
 </template>
